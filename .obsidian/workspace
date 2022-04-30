@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cse3231/final_exam/README.md",
-            "mode": "preview",
-            "source": true
+            "file": "cse3231/README.md",
+            "mode": "source"
           }
         }
       }
@@ -19,78 +18,94 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ab950247a8fd77c1",
-    "type": "mobile-drawer",
+    "id": "b3fa710e5164c60e",
+    "type": "split",
     "children": [
       {
-        "id": "21fa484d06adf355",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "e100d4239585e0da",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "a3ac9db542989a1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43df757b988b06e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69825fc5275dce40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"[[0_CSE3231-Syllabus-Spring 2022.pdf]][[Networks_01_Introduction-Syllabus.pdf]][[Networks_02_Overview.pdf]][[Networks_03_Physical Layer.pdf]][[Networks_04_Data Link-part 1.pdf]][[Networks_05_Data Link-part 2.pdf]][[Networks_06_Data Link-part 3.pdf]][[Networks_07_MAC Sublayer-part 1.pdf]][[Networks_08_MAC Sublayer-part 2.pdf]][[Networks_09_MAC Sublayer-part 3.pdf]][[Networks_10_Network Layer-part 1.pdf]][[Networks_11_Network Layer-part 2.pdf]][[Networks_12_Network Layer-part 3.pdf]][[Networks_13_Network Layer-part 4.pdf]][[Networks_14_Network Layer-part 5.pdf]][[Networks_15_Socket Programming.pdf]][[Networks_16_Transport Layer-part 1.pdf]][[Networks_17_Transport Layer-part\\\\ 2.pdf]][[Networks_18_TCP Flow Control-part 1.pdf]][[Networks_19_TCP Flow Control-part 2.pdf]][[Networks_20_Applications-part 1.pdf]][[Networks_21_Applications-part 2.pdf]][[Networks_22_Applications-part 3.pdf]][[Networks_23_Cryptography-part 1.pdf]][[Networks_24_Cryptography-part 2.pdf]][[Networks_25_Secure Communications.pdf]][[Networks_26_Mobile_Wireless.pdf]][[Networks_27_Network Security.pdf]]\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "9bfcab23038b81f4",
-    "type": "mobile-drawer",
+    "id": "0de2586fe76b2b93",
+    "type": "split",
     "children": [
       {
-        "id": "50cf71443fa38aa3",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "cse3231/final_exam/README.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "a89b2c8572ec9ad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96aa050bfe1f3c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cse3231/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e466039bfe3f96ed",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "51a1a310267bc172",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "05088ccd6f28c190",
   "lastOpenFiles": [
+    "cse3231/README.md",
+    "notes/Networks_23_Cryptography-part/ 1.pdf.md",
+    "cse3231/5_more_tcp_programming/README.md",
     "cse3231/final_exam/README.md",
     "cse4083/midterm/README.md",
     "1.md",
     "cse4081/1_midterm/gbutler2020-midterm.md",
-    "cse3231/README.md",
     "cse3231/notes/Networks_01_Introduction-Syllabus.pdf",
     "cse3231/notes/0_CSE3231-Syllabus-Spring 2022.pdf",
-    "README.md",
-    "README.md.md",
-    "cse3100/README.md"
+    "README.md"
   ]
 }

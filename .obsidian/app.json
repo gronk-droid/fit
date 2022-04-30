@@ -1,1 +1,7 @@
-{}
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "autoConvertHtml": false
+}

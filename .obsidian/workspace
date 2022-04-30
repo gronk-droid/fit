@@ -7,8 +7,12 @@
         "id": "05088ccd6f28c190",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "cse3231/final_exam/README.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "cse3231/final_exam/README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -63,10 +68,29 @@
             "unlinkedCollapsed": true
           }
         }
+      },
+      {
+        "id": "51a1a310267bc172",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
   },
   "active": "05088ccd6f28c190",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "cse3231/final_exam/README.md",
+    "cse4083/midterm/README.md",
+    "1.md",
+    "cse4081/1_midterm/gbutler2020-midterm.md",
+    "cse3231/README.md",
+    "cse3231/notes/Networks_01_Introduction-Syllabus.pdf",
+    "cse3231/notes/0_CSE3231-Syllabus-Spring 2022.pdf",
+    "README.md",
+    "README.md.md",
+    "cse3100/README.md"
+  ]
 }

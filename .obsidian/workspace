@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "05088ccd6f28c190",
+        "id": "f7ee5165055f12e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05088ccd6f28c190",
+  "active": "f7ee5165055f12e4",
   "lastOpenFiles": [
     "cse3231/README.md",
-    "notes/Networks_23_Cryptography-part/ 1.pdf.md",
+    "cse3231/notes/0_CSE3231-Syllabus-Spring_2022.pdf",
     "cse3231/5_more_tcp_programming/README.md",
+    "notes/Networks_23_Cryptography-part/ 1.pdf.md",
     "cse3231/final_exam/README.md",
     "cse4083/midterm/README.md",
     "1.md",
     "cse4081/1_midterm/gbutler2020-midterm.md",
     "cse3231/notes/Networks_01_Introduction-Syllabus.pdf",
-    "cse3231/notes/0_CSE3231-Syllabus-Spring 2022.pdf",
-    "README.md"
+    "cse3231/notes/0_CSE3231-Syllabus-Spring 2022.pdf"
   ]
 }
